@@ -1,6 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
 Developed by : **SHIVANI M**
-Reg No : **212224O4O313**
+Reg No : **212224040313**
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
